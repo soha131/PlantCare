@@ -12,12 +12,10 @@ Built with Flutter for cross-platform compatibility, PlantCare AI combines moder
 
 ## ✨ Key Feature
 
-   •	 **🌡️ Real-Time Monitoring**
-    • Soil Moisture Tracking: Monitor soil moisture levels with visual feedback and alerts
-      
-   • Temperature Monitoring: Real-time soil temperature readings
-      
-   • Live Feed: Stream live video from your plant camera
+   _	 **🌡️ Real-Time Monitoring**
+            • Soil Moisture Tracking: Monitor soil moisture levels with visual feedback and alerts
+            • Temperature Monitoring: Real-time soil temperature readings
+            • Live Feed: Stream live video from your plant camera
    
    •	**🔬 AI-Powered Disease Detection**
          - Image Capture: Capture plant images directly from the integrated camera
